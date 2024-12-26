@@ -30,8 +30,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
----
-
-### 🎮 Fun Fact  
-- I love solving puzzles and building cool apps in my free time.  
-- Competitive programming has been my passion for 2+ years!
